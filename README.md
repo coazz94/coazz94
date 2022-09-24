@@ -3,26 +3,25 @@
 <p align='center'>
 I'm Aleks, I am currently living and working as an Electrical engineer in Austria. Since school, I have always liked the Challenge and possibilities ​that coding gives you. Recently, I started focusing more on my path to become a Software Developer one day. 
 </p>
-<p align='center'>For enquiries, reach out @/// or over on <a href="LINK">Twitter</a>.</p>
+<p align='center'>For more infos or to stay in tocuh , reach out test@hotmail.com or over on <a href="LINK">My Website</a>.</p>
 
-<h1 align='center'><i>Stay focused!</i></h1>
+<h1 align='center'><i>Stay focused and motivated!</i></h1>
 
 ### Programming Languages 🌐
 
-- Know/Using
+- Know/Using 
 
-|[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">](https://www.python.org/)|
+|[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python_logo" width="28">](https://www.python.org/)|
 |---|
 
 - Learning
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="24">](https://www.rust-lang.org/)|
-|---|---|---|
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js_logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="django_logo" width="24">](https://www.learn-c.org/) | [<img src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" alt="django_logo" width="24">](https://www.djangoproject.com) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" alt="flask_logo" width="24">](https://flask.palletsprojects.com) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html_logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/HTML) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="html_logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/CSS) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql_logo" width="24">](https://dev.mysql.com/doc/) |
+|---|---|---|---|---|---|---|
 
 ### Tools 🛠️
 
 - Know/Using
 
-|[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/)| 
-| Windows Terminal |
-|---|---|---|
+|[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git_logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/)| 
+|---|---|
