@@ -30,8 +30,7 @@ I'm Aleks, I am currently living and working as an Electrical engineer in Austri
 
 ### Connect with me:
 <p align="left">
-<a href="Link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter_logo" height="30" width="40" /></a>
-<a href="Link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked_in" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aleksandar-popovic-811176251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked_in" height="30" width="40" /></a>
 <a href="Link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram_logo" height="30" width="40" /></a>
 <a href="Link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
 <a href=href="Link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
