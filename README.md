@@ -35,3 +35,7 @@ I'm Aleks, I am currently living and working as an Electrical engineer in Austri
 <a href="Link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
 <a href=href="Link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 </p>
+
+<hr class="dashed" style="padding:20px">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coazz94)](https://github.com/anuraghazra/github-readme-stats)
