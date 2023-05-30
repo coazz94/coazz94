@@ -3,7 +3,7 @@
 <p align='center'>
 I'm Aleks, I am currently living and working as an Electrical engineer in Austria. Since school, I have always liked the Challenge and possibilities ​that coding gives you. Recently, I started focusing more on my path to become a Software Developer one day. 
 </p>
-<p align='center'>For more infos or to stay in touch , reach out aco94@hotmail.com>
+<p align='center'>For more infos or to stay in touch , reach out aco94@hotmail.com</p>
 
 <h1 align='center'><i>Stay focused and motivated!</i></h1>
 
